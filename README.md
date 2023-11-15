@@ -1,1 +1,1 @@
-<h1>Blog Aldi Satria</h1>
+<h1>Aldi Satria</h1>
